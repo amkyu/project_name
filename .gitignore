@@ -1,0 +1,6 @@
+.dependencies/**
+!.dependencies/README.md
+build/
+log/
+install/
+
